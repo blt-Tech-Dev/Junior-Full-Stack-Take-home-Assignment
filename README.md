@@ -5,7 +5,7 @@
 ## Introduction
 
 This is a take home assignment for the role of Junior Full-Stack developer at a company. The assignment is to clone
-the website [Bangkok Asset](https://bangkok-asset.net/#) using HTML, CSS and JavaScript or any other technology of your choice with
+the website [Bangkok Asset](https://bangkok-asset.net/#) using JavaScript framework such as Nextjs or any other technology of your choice with
 assets provided in the `assets` folder. The website should be responsive and should be able to run on all devices and to deploy the website on a server with [vercel](https://vercel.com/).
 
 ## Description
